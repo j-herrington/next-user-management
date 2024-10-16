@@ -41,11 +41,11 @@ A year later, I revisited the project and decided to switch to Nuxt UI. By then,
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/images/Auth.gif" alt="Authentication Page" width="300"/>
+      <img src="docs/auth_gif.gif" alt="Authentication Page" width="300"/>
       <p><em>Authentication page where users log in.</em></p>
     </td>
     <td align="center" width="50%">
-      <img src="assets/images/Account.gif" alt="Account Management Page" width="300"/>
+      <img src="docs/account_gif.gif" alt="Account Management Page" width="300"/>
       <p><em>Account management page where users can update their profiles.</em></p>
     </td>
   </tr>
@@ -54,7 +54,7 @@ A year later, I revisited the project and decided to switch to Nuxt UI. By then,
 <table>
   <tr>
     <td align="center">
-      <img src="assets/images/ColorMode.gif" alt="Color Mode Gif" width="600"/>
+      <img src="docs/colormode_gif.gif" alt="Color Mode Gif" width="600"/>
       <p><em>Automatic detection and switching of color modes.</em></p>
     </td>
   </tr>
