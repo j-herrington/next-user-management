@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-login-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxt/ui": "^2.13.0",
+    "@nuxtjs/color-mode": "^3.4.1",
+    "@nuxtjs/supabase": "^1.2.2",
+    "nuxt": "^3.10.1",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "6.11.0",
+    "@supabase/gotrue-js": "^2.62.2",
+    "yup": "1.4.0"
+  }
+}
